@@ -1,0 +1,4 @@
+# Git忽略文件
+*.iml
+/.idea/
+/.git/
